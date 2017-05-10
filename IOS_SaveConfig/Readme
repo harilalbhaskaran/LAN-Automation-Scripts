@@ -1,0 +1,2 @@
+Add devices IP address line-by-line on Switchlist.txt and save.
+Run SaveConfig.py
